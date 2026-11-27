@@ -56,3 +56,11 @@ A merge conflict occurs when Git cannot automatically combine changes made in di
 | `git push` | Push using configured upstream |
 | `git fetch origin` | Download remote updates without integrating them |
 | `git pull` | Fetch and integrate remote updates |
+
+`git fetch`
+Download only
+Downloads the latest changes from GitHub but doesn't merge them into your current local branch.
+
+`git pull`
+Download + integrate
+Downloads the latest changes and integrates them into your current local branch.
