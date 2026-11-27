@@ -64,3 +64,6 @@ Downloads the latest changes from GitHub but doesn't merge them into your curren
 `git pull`
 Download + integrate
 Downloads the latest changes and integrates them into your current local branch.
+
+Command	Purpose
+git clone URL	Downloads an existing repository
